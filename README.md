@@ -1,6 +1,6 @@
 # anushka-landpage
 NAME:-ANUSHKA SHARMA
-ENROLLMENT NUMBER:_1401/INIF/125/013
+ENROLLMENT NUMBER:_1401/INIF/125/013<br>
 In this' section tag is used to define a generic section of a document.
 Nav tag used for the web page that contains navigation links.
 navigation bar is used to easy assess to key area such as home features contact,instructors and pricing.
