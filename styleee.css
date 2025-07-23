@@ -21,7 +21,7 @@ section {
   padding: 40px 20px;
 }
 
-/* Navbar */
+
 .navbar {
   background-color: #333;
   color: rgb(222, 233, 15);
@@ -100,13 +100,7 @@ section {
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
-.mentor-img, .avatar-img {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 10px;
-}
+
 
 
 .testimonials {
@@ -235,7 +229,7 @@ section {
   margin-bottom: 5px;
 }
 
-/* FAQ */
+
 .faq details {
   max-width: 600px;
   margin: 10px auto;
@@ -271,27 +265,13 @@ section {
   cursor: pointer;
 }
 
-/* Dark Mode */
-body.dark-mode {
-  background-color: #121212;
-  color: #f0f0f0;
-}
 
-body.dark-mode .card,
-body.dark-mode .testimonial,
-body.dark-mode .plan,
-body.dark-mode .faq details,
-body.dark-mode .footer,
-body.dark-mode .navbar {
-  background-color: #1e1e1e;
-  color: #f0f0f0;
-}
 
-body.dark-mode .hero {
-  background: linear-gradient(to right, #0f2027, #203a43);
-}
 
-/* Responsive Tweaks */
+
+
+
+
 @media (max-width: 768px) {
   .navbar .container {
     flex-direction: column;
